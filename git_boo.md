@@ -15,3 +15,6 @@
 ### Команды второго семинара
 
 * git branch
+
+
+![terminator.png](terminator.png)
