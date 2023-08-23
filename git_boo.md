@@ -18,3 +18,5 @@
 
 
 ![terminator.png](terminator.png)
+* git checkout branch_name
+* git checkout commit_name
