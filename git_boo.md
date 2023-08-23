@@ -15,3 +15,5 @@
 ### Команды второго семинара
 
 * git branch
+* git checkout branch_name
+* git checkout commit_name
