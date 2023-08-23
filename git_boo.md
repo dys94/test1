@@ -11,3 +11,7 @@
 * git log
 * git checkout 
 * git diff
+
+### Команды второго семинара
+
+* git branch
